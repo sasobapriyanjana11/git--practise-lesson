@@ -8,6 +8,11 @@ public class Example {
     }
 
     private static void NewBranch() {
+
+        //main
+        //└── registration
+        //    └── commitChangesBranch
+
         System.out.println("git checkout -b registration");
         goesToThatBranch();
 
@@ -21,6 +26,8 @@ public class Example {
          String  Stage_Your_Changes="git add .";
          String Commit_Your_Changes="git commit -m \"Your commit message here\"\n";
          String Push_the_Commit_to_the_RemoteRepository="git push origin branch-name\n";
+
+         // git push --set-upstream origin commitChangesBranch;
 
          return Stage_Your_Changes +","+
                  Commit_Your_Changes +","+
