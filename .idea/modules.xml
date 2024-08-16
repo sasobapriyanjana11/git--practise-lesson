@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Git-Practices/Confirm_module/Confirm_module.iml" filepath="$PROJECT_DIR$/Git-Practices/Confirm_module/Confirm_module.iml" />
       <module fileurl="file://$PROJECT_DIR$/Git-Practices(just for fun)/Git-Practices.iml" filepath="$PROJECT_DIR$/Git-Practices(just for fun)/Git-Practices.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/git--practise-lesson.iml" filepath="$PROJECT_DIR$/.idea/git--practise-lesson.iml" />
     </modules>
